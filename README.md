@@ -3,6 +3,8 @@
 This project is an Arduino-based mini-game where players control a character to dodge falling dots. 
 The game utilizes an OLED screen for display and a video game controller for movement. 
 
+Note: The character designs in the assets folder aren't my own but I included them because I did the pixel art myself
+
 # Materials
 - Arduino
 - OLED Display
